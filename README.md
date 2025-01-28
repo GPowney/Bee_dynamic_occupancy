@@ -1,2 +1,2 @@
 # Bee_dynamic_occupancy
-The code to run the analysis for 'Disentangling spatial and spatio-temporal climatic correlates of local losses of wild bees'.
+The code to run the analysis for 'Disentangling spatial and spatio-temporal climatic correlates of local losses of wild bees'. Note, we do not have permission to share the raw data, so these scripts are not designed for external users to recreate that analysis. For example, there are hard-coded file locations and many sections are not functionalised. Instead, the code presented here allows readers to examine the code used to produce the analysis.
